@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="32001">Steam Web API Key benötigt</string>
+    <string id="32002">Dieses Plugin benötigt einen Steam Web Api Key. Sie können einen gratis auf "https://steamcommunity.com/dev/apikey" bekommen. Geben sie ihren bitte jetzt ein.</string>
+    <string id="32003">Steam Web API Key:</string>
+    <string id="32004">Warnung</string>
+    <string id="32005">Bitte beachten sie, dass, wenn kein valider API Key bereitgestellt wird, dieses Plugin nicht funktionieren wird und keine Steam Clients gefunden werden. Sie können den Key jederzeit später ändern in den Streaming Einstellungen.</string>
+
+    <string id="32007">Suche nach Steam Instanzen</string>
+    <string id="32008">Wecke Steam PC</string>
+    <string id="32009">Streaming Einstellungen</string>
+
+    <string id="32010">Hintergrunddienst ist noch nicht vollständig gestartet</string>
+    <string id="32011">Bitte warten sie noch ein paar weitere Sekunden, bis der Dienst gestartet ist.</string>
+
+    <string id="32012">Start fehlgeschlagen</string>
+    <string id="32013">Der Stream konnte nicht gestartet werden.</string>
+    <string id="32014"> Überprüfen sie den Status der Steam Instanze auf die sie ferngesteuert zugreifen möchten</string>
+    <string id="32015">Das Spiel ist nicht installiert</string>
+    <string id="32016">Wollen Sie es installieren?</string>
+    <string id="32017">Die Anfrage brauchte zu lang. Versuchen sie es erneut oder überprüfen sie ihren Streaming Computer.</string>
+    <string id="32018">Installation fehlgeschlagen</string>
+    <string id="32019">Das Spiel scheint inkompatibel mit ihrem Streaming Computer zu sein</string>
+
+    <string id="32020">Installieren/Updaten</string>
+    <string id="32021">ca.</string>
+    <string id="32022">Minute(n) verbleibend</string>
+    <string id="32023">Aktueller Status</string>
+    <string id="32024">Das Spiel wurde erfolgreich installiert/geupdated</string>
+    <string id="32025">Wollen Sie es nun starten?</string>
+
+    <string id="32026">Steam Streaming</string>
+    <string id="32027">Authentifizierung fehlt: </string>
+    <string id="32028">Ungültiger Steam Web API Key</string>
+    <string id="32029">Steam Streaming</string>
+    <string id="32030">Verbunden</string>
+
+    <string id="32031">Authetifizierungsdaten fehlen</string>
+    <string id="32032">Es war nicht möglich sich zu</string>
+    <string id="32006">verbinden, weil keine lokalen Authentifizierungs Daten für den Steam User konnte nicht gefunden werden. Stellen sie sicher Steam ist installiert, der Benutzer </string>
+    <string id="32034">gefunden werden konnten. Bitte loggen sie sich mit Steam ein und streamen sie ein beliebiges Spiel mindestens einmal mit diesem Computer.</string>
+
+    <string id="32084">MAC-Addresse hinzufügen</string>
+    <string id="32035">Bitte geben sie eine MAC Addresse ein</string>
+
+    <string id="32036">Ungültige MAC Addresse</string>
+    <string id="32037">Die Eingabe scheint keine valide MAC Addresse zu sein (bsw. FF:FF:FF:FF:FF:FF)</string>
+
+
+    <string id="32038">Unbekannter Status</string>
+    <string id="32039">Nicht Installiert</string>
+    <string id="32040">Ungültiger Status</string>
+    <string id="32041">Vollständig installiert</string>
+    <string id="32042">Installiert (Verschlüsselt)</string>
+    <string id="32043">Startet</string>
+    <string id="32044">Dateien fehlen</string>
+    <string id="32045">Spiel läuft</string>
+    <string id="32046">Dateien beschädigt</string>
+    <string id="32047">Update läuft</string>
+    <string id="32048">Update pausiert</string>
+    <string id="32049">Update gestartet</string>
+    <string id="32050">Deinstallation</string>
+    <string id="32051">Backup läuft</string>
+    <string id="32052">Erstkonfiguration</string>
+    <string id="32053">Validierung</string>
+    <string id="32054">Füge Dateien hinzu</string>
+    <string id="32055">Reserviere Speicher</string>
+    <string id="32056">Herunterladen</string>
+    <string id="32057">Staging</string>
+    <string id="32058">Committing</string>
+    <string id="32059">Update gestoppt</string>
+
+    <string id="32060">Streaming</string>
+    <string id="32061">Vollbild</string>
+    <string id="32062">Hardwarebeschleunigung</string>
+    <string id="32063">Erlaube spieleigenes VSync</string>
+    <string id="32064">Maximale Bildwiederholungsrate</string>
+    <string id="32065">Qualität</string>
+    <string id="32066">Schnell</string>
+    <string id="32067">Ausgeglichen</string>
+    <string id="32068">Schön</string>
+    <string id="32069">Automatische Bitrate</string>
+    <string id="32070">Bitrate</string>
+
+    <string id="32071">Gamepad Anzahl</string>
+
+    <string id="32072">Pre-Game Script</string>
+    <string id="32073">Post-Game Script</string>
+
+    <string id="32074">Steam Web API Key</string>
+
+    <string id="32075">Zeige Debug Informationen im Spiel</string>
+
+    <string id="32076">Fehlerbehebung</string>
+    <string id="32077">Lösche gespeicherte MAC Adressen</string>
+    <string id="32078">Lösche zwischengespeicherte Spielbilder</string>
+    <string id="32079">Plugin zurücksetzen</string>
+
+    <string id="32080">Erster Lauf</string>
+    <string id="32081">Gestartet</string>
+    <string id="32082">Ungültiger Steam Api Key</string>
+
+    <string id="32083">Verbindung getrennt</string>
+
+    <string id="32087">Benutze Start/Stop Scripts</string>
+    <string id="32085">Erweitert</string>
+    <string id="32086">Automatische Gamepad Anzahl</string>
+</strings>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="32001">Steam Web API Key required</string>
+    <string id="32002">This plugin needs a Steam Web Api Key. You can request one for free at "https://steamcommunity.com/dev/apikey". Please enter your key now</string>
+    <string id="32003">Please enter Steam Web API Key:</string>
+    <string id="32004">Warning</string>
+    <string id="32005">Please note, that if no valid API key is provided this plugin will not be functional and no clients will be found. You can change it in the settings later.</string>
+
+    <string id="32007">Find Steam Instances</string>
+    <string id="32008">Wake Steam PC</string>
+    <string id="32009">Streaming Settings</string>
+
+    <string id="32010">Service is still starting up</string>
+    <string id="32011">Please wait some more seconds for it to start up.</string>
+
+    <string id="32012">Start Failed</string>
+    <string id="32013">The Stream could not be started</string>
+    <string id="32014">You should check on the Steam Instance you try to access remotely.</string>
+    <string id="32015">This game is not installed</string>
+    <string id="32016">Do you want to install it?</string>
+    <string id="32017">The request timed out. You may try again or check your streaming computer.</string>
+    <string id="32018">Install failed</string>
+    <string id="32019">The Game seems to incompatible with the streaming computer.</string>
+
+    <string id="32020">Installing/Updating</string>
+    <string id="32021">about</string>
+    <string id="32022">minute(s) remaining</string>
+    <string id="32023">Current State</string>
+    <string id="32024">The game is now installed/fully updated</string>
+    <string id="32025">Do you want to launch it?</string>
+
+    <string id="32026">Steam Streaming</string>
+    <string id="32027">Authentication not found for</string>
+    <string id="32028">Invalid Steam Web API Key</string>
+    <string id="32029">Steam Streaming</string>
+    <string id="32030">Connected</string>
+
+    <string id="32031">No Authentification Data provided</string>
+    <string id="32032">It was not possible to connect to</string>
+    <string id="32006">, because no local authentification data was found for the Steam User</string>
+    <string id="32034">. Please start Steam and log in and stream any game using this account at least once on this machine.</string>
+
+    <string id="32084">Add MAC Address</string>
+    <string id="32035">Please enter the MAC address</string>
+
+    <string id="32036">Invalid MAC Address</string>
+    <string id="32037">The Input does not appear to be a valid MAC Address (e.g. FF:FF:FF:FF:FF:FF)</string>
+
+
+    <string id="32038">Unknown State</string>
+    <string id="32039">Not installed</string>
+    <string id="32040">Invalid State</string>
+    <string id="32041">Completely Installed</string>
+    <string id="32042">Installed (Encrypted)</string>
+    <string id="32043">Starting</string>
+    <string id="32044">Files Missing</string>
+    <string id="32045">Game is running</string>
+    <string id="32046">Corrupt Files</string>
+    <string id="32047">Update Running</string>
+    <string id="32048">Update Paused</string>
+    <string id="32049">Update Started</string>
+    <string id="32050">Uninstalling</string>
+    <string id="32051">Backup Running</string>
+    <string id="32052">Reconfiguring</string>
+    <string id="32053">Validating</string>
+    <string id="32054">Adding Files</string>
+    <string id="32055">Preallocating</string>
+    <string id="32056">Downloading</string>
+    <string id="32057">Staging</string>
+    <string id="32058">Committing</string>
+    <string id="32059">Update Stopping</string>
+
+
+    <string id="32060">Streaming</string>
+    <string id="32061">Fullscreen</string>
+    <string id="32062">Hardware Acceleration</string>
+    <string id="32063">Allow Game VSync</string>
+    <string id="32064">Framerate Limit</string>
+    <string id="32065">Quality</string>
+    <string id="32066">Fast</string>
+    <string id="32067">Balanced</string>
+    <string id="32068">Beautiful</string>
+    <string id="32069">Automatic Bitrate</string>
+    <string id="32070">Bitrate</string>
+
+    <string id="32071">Gamepad Slots</string>
+
+    <string id="32072">Pre-Game Script</string>
+    <string id="32073">Post-Game Script</string>
+
+    <string id="32074">Steam Web API Key</string>
+
+    <string id="32075">Show Debug In-Game Overlay</string>
+
+    <string id="32076">Troubleshooting</string>
+    <string id="32077">Clear Saved MAC Adresses</string>
+    <string id="32078">Clear Cached Game Images</string>
+    <string id="32079">Reset Plugin</string>
+
+    <string id="32080">First Run</string>
+    <string id="32081">Started</string>
+    <string id="32082">Invalid Steam Api Key</string>
+
+    <string id="32083">Disconnected</string>
+
+    <string id="32087">Use Start/Stop Scripts</string>
+    <string id="32085">Advanced</string>
+    <string id="32086">Auto Detect Gamepad Count</string>
+</strings>
