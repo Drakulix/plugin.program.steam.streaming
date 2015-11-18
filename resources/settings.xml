@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32060">
+        <setting label="32061" type="bool" id="fullscreen" default="true"/>
+        <setting label="32062" type="bool" id="hwaccel" default="true"/>
+        <setting label="32063" type="bool" id="vsync" default="true"/>
+        <setting label="32064" type="number" id="framerate" default="60" enable="eq(-1,false)"/>
+        <setting label="32065" type="enum" id="quality" lvalues="32066|32067|32068"/>
+        <setting label="32069" type="bool" id="autobitrate" default="true"/>
+        <setting label="32070" type="slider" id="bitrate" subsetting="true" default="5" range="5,5,30" option="int" enable="eq(-1,false)" />
+        <setting type="sep"/>
+        <setting label="32074" type="text" id="steam_api_key" default=""/>
+    </category>
+    <category label="32085">
+        <setting label="32087" type="bool" id="use_scripts" default="false"/>
+        <setting label="32072" type="file" id="prescript" enable="eq(-1,true)"/>
+        <setting label="32073" type="file" id="postscript" enable="eq(-2,true)"/>
+        <setting type="sep"/>
+        <setting label="32086" type="bool" id="auto_gamepad" default="true"/>
+        <setting label="32071" type="number" id="gamepad" default="1" enable="eq(-1,false)"/>
+        <setting type="sep"/>
+        <setting label="32075" type="bool" id="debug" default="false"/>
+    </category>
+    <category label="32076">
+        <setting label="32077" type="action" action='RunPlugin("plugin://plugin.program.steam.streaming/?mode=clearMacs")'/>
+        <setting label="32079" type="action" action='RunPlugin("plugin://plugin.program.steam.streaming/?mode=reset")'/>
+        <setting label="32080" type="bool" id="first_run" visible="false" default="true"/>
+        <setting label="32081" type="bool" id="started" visible="false" default="false"/>
+        <setting label="32082" type="bool" id="invalid_steam_api_key" visible="false" default="false"/>
+    </category>
+</settings>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.steam.streaming" name="Steam Streaming" version="0.8.0" provider-name="Drakulix">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.stream_api"/>
+    <import addon="script.module.steamapi"/>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="gui.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Steam In-Home Streaming</summary>
+    <description lang="en">Start In-Home Streaming directly from Kodi</description>
+    <summary lang="de">Steam In-Home Streaming</summary>
+    <description lang="de">Starte In-Home Streaming direkt aus Kodi heraus</description>
+    <language></language>
+    <platform>winx linux osx</platform>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/drakulix/plugin.program.steam.streaming</website>
+    <email>github@drakulix.de</email>
+    <source>https://github.com/drakulix/plugin.program.steam.streaming</source>
+  </extension>
+</addon>
