@@ -16,7 +16,7 @@
     <summary lang="de">Steam In-Home Streaming</summary>
     <description lang="de">Starte In-Home Streaming direkt aus Kodi heraus</description>
     <language></language>
-    <platform>winx linux osx</platform>
+    <platform>windx linux osx</platform>
     <license>MIT</license>
     <forum></forum>
     <website>https://github.com/drakulix/plugin.program.steam.streaming</website>
