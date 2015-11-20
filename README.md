@@ -1,5 +1,5 @@
 
-# Kodi Steam Streaming Addon [WIP] (Currently only the Linux Build is running. Blame Kodi's outdated Python Version. Trying to fix this.)
+# Kodi Steam Streaming Addon [WIP] - (Currently only the Linux Build is running. Blame Kodi's outdated Python Version. Trying to fix this.)
 
 Start In-Home Streaming right from Kodi!
 Discover local Steam Instances, select the Game you wanna play and you are good to go!
