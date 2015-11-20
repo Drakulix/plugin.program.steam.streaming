@@ -1,5 +1,5 @@
 
-# Kodi Steam Streaming Addon [ALPHA] [![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HY4U6RRY6B79Y)
+# Kodi Steam Streaming Addon [WIP] (Currently only the Linux Build is running. Blame Kodi's outdated Python Version. Trying to fix this.)
 
 Start In-Home Streaming right from Kodi!
 Discover local Steam Instances, select the Game you wanna play and you are good to go!
